@@ -1,0 +1,66 @@
+{
+  "asOf": "May 2026",
+  "headline": 4.25,
+  "categories": [
+    {
+      "series": "CUUR0000SEHA",
+      "pct": 2.92,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SAF11",
+      "pct": 2.74,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SEFV",
+      "pct": 3.54,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SETB01",
+      "pct": 40.46,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SEHF01",
+      "pct": 5.92,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SEED",
+      "pct": -0.96,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SEEB01",
+      "pct": 1.91,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SAM",
+      "pct": 2.59,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SETE",
+      "pct": -2.01,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SAA",
+      "pct": 4.79,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SAR",
+      "pct": 2.62,
+      "latest": "May 2026"
+    },
+    {
+      "series": "CUUR0000SETG01",
+      "pct": 26.7,
+      "latest": "May 2026"
+    }
+  ]
+}
