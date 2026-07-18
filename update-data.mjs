@@ -57,8 +57,12 @@ for (const s of json.Results.series) {
     .sort((a, b) => b.y - a.y || b.m - a.m);
 
   const latest = obs[0];
+  if (!latest) {
+    console.warn(`skipping ${s.seriesID}: no monthly observations`);
+    continue;
+  }
   const prior = obs.find(d => d.y === latest.y - 1 && d.m === latest.m);
-  if (!latest || !prior) {
+  if (!prior) {
     console.warn(`skipping ${s.seriesID}: missing 12-month pair`);
     continue;
   }
